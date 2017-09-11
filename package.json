@@ -1,0 +1,23 @@
+{
+  "name": "upload-img",
+  "version": "0.0.1",
+  "description": "node koa upload-image img ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "koa",
+    "upload-image",
+    "img"
+  ],
+  "author": "shine",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-body": "^2.3.0",
+    "koa-logger": "^3.0.1",
+    "koa-static": "^4.0.1"
+  }
+}
